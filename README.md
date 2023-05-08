@@ -1,4 +1,4 @@
-# Tri-Ciclos en un Grafo
+# 3-Cycles in a graph
 
 1. Tricycles, or more formally 3-cycles, are a basic element in the analysis of graphs and subgraphs. 3-cycles show a close relationship between 3 entities (vertices): each vertex is related (has edges) to the other two.
 Write a parallel program that calculates the 3-cycles of a graph defined as a list of edges. 
